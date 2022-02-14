@@ -27,6 +27,7 @@ html {
 *::after,
 *::before {
   box-sizing: inherit;
+  transition: all 0.2s ease;
 }
 
 body {
@@ -53,7 +54,7 @@ body {
 .periodic-table {
   display: grid;
   grid-template: repeat(7, auto)/repeat(18, auto);
-  grid-gap: 2px;
+  grid-gap: 1px;
 }
 .periodic-table__element {
   padding: 3px;
@@ -64,6 +65,7 @@ body {
   align-items: center;
   border: 1px solid var(--base-text-color);
   background: var(--background-color);
+  border-radius: 1px;
   color: var(--base-text-color);
 }
 .periodic-table__element .atomic-number {
@@ -91,6 +93,10 @@ body {
 }
 .periodic-table__element.periodic-table__element--reactive-nonmetal .symbol {
   color: var(--reactive-nonmetal);
+}
+.periodic-table__element:hover {
+  background-color: rgba(255, 255, 255, 0.347);
+  cursor: pointer;
 }
 .periodic-table__element.periodic-table__element--reactive-nonmetal.c {
   grid-area: 2/14;
@@ -418,7 +424,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 1px solid var(--base-text-color);
+  border: 2px solid var(--base-text-color);
 }
 .periodic-subtable__element .atomic-number {
   order: 1;
