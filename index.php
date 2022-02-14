@@ -193,19 +193,19 @@
           <div
             class="periodic-table__element periodic-table__element--transition-metal cr"
           >
-            <div class="name">Chromium</div>
+            <div class="name">Jennifer Hod...</div>
             <div class="atomic-number">24</div>
-            <div class="symbol artist">Cr</div>
-            <div class="atomic-weight">51.996</div>
+            <div class="symbol artist">Jhs</div>
+            <div class="atomic-weight">1/28/1951 - ...</div>
           </div>
   
           <div
             class="periodic-table__element periodic-table__element--transition-metal mo"
           >
-            <div class="name">Molybdenum</div>
+            <div class="name">Donovan Bailey</div>
             <div class="atomic-number">42</div>
-            <div class="symbol athelete">Mo</div>
-            <div class="atomic-weight">95.95</div>
+            <div class="symbol athelete">Dob</div>
+            <div class="atomic-weight">12/16/1967 -</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal w"
