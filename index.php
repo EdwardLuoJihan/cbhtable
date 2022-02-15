@@ -210,106 +210,106 @@
           <div
             class="periodic-table__element periodic-table__element--transition-metal w"
           >
-            <div class="name">Tungsten</div>
+            <div class="name">John Alleyne</div>
             <div class="atomic-number">74</div>
-            <div class="symbol">W</div>
-            <div class="atomic-weight">183.84</div>
+            <div class="symbol">Ja</div>
+            <div class="atomic-weight">1/25/1960 -</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal sg"
           >
-            <div class="name">Seaborgium</div>
+            <div class="name">Addie Aylerstock</div>
             <div class="atomic-number">106</div>
-            <div class="symbol">Sg</div>
-            <div class="atomic-weight">[268]</div>
+            <div class="symbol">Aa</div>
+            <div class="atomic-weight">9/8/1909 - ...</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal mn"
           >
-            <div class="name">Manganese</div>
+            <div class="name">Jennifer Holness</div>
             <div class="atomic-number">25</div>
-            <div class="symbol artist">Mn</div>
-            <div class="atomic-weight">54.938</div>
+            <div class="symbol artist">Jh</div>
+            <div class="atomic-weight">1969 -</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal tc"
           >
-            <div class="name">Technetium</div>
+            <div class="name">Andre De ...</div>
             <div class="atomic-number">43</div>
-            <div class="symbol athelete">Tc</div>
-            <div class="atomic-weight">[98]</div>
+            <div class="symbol athelete">Adg</div>
+            <div class="atomic-weight">11/10/1994 -</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal re"
           >
-            <div class="name">Rhenium</div>
+            <div class="name">Stanley Grizzle</div>
             <div class="atomic-number">75</div>
-            <div class="symbol">Re</div>
-            <div class="atomic-weight">186.21</div>
+            <div class="symbol">Sg</div>
+            <div class="atomic-weight">11/18/1918 - ...</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal bh"
           >
-            <div class="name">Bohrium</div>
+            <div class="name">Mathieu Da Costa</div>
             <div class="atomic-number">107</div>
-            <div class="symbol">Bh</div>
-            <div class="atomic-weight">[270]</div>
+            <div class="symbol">Mdc</div>
+            <div class="atomic-weight">1500s - 1600s</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal fe"
           >
-            <div class="name">Iron</div>
+            <div class="name">Shelton Brooks</div>
             <div class="atomic-number">26</div>
-            <div class="symbol artist">Fe</div>
-            <div class="atomic-weight">55.845</div>
+            <div class="symbol artist">S</div>
+            <div class="atomic-weight">5/4/1886 - ...</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal ru"
           >
-            <div class="name">Ruthenium</div>
+            <div class="name">Grant Fuhr</div>
             <div class="atomic-number">44</div>
-            <div class="symbol athelete">Ru</div>
-            <div class="atomic-weight">101.07</div>
+            <div class="symbol athelete">Gf</div>
+            <div class="atomic-weight">9/28/1962 -</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal os"
           >
-            <div class="name">Osmium</div>
+            <div class="name">Willie O'Ree</div>
             <div class="atomic-number">76</div>
-            <div class="symbol">Os</div>
-            <div class="atomic-weight">190.23</div>
+            <div class="symbol">Wo</div>
+            <div class="atomic-weight">10/15/1935 -</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal hs"
           >
-            <div class="name">Hassium</div>
+            <div class="name">Maryann Francis</div>
             <div class="atomic-number">108</div>
-            <div class="symbol">Hs</div>
-            <div class="atomic-weight">[270]</div>
+            <div class="symbol">Maf</div>
+            <div class="atomic-weight">Unknown</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal co"
           >
-            <div class="name">Cobalt</div>
+            <div class="name">Stan Douglas</div>
             <div class="atomic-number">27</div>
-            <div class="symbol artist">Co</div>
-            <div class="atomic-weight">58.933</div>
+            <div class="symbol artist">Sd</div>
+            <div class="atomic-weight">10/11/1960 - </div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal rh"
           >
-            <div class="name">Rhodium</div>
+            <div class="name">Harry Jerome</div>
             <div class="atomic-number">45</div>
-            <div class="symbol athelete">Rh</div>
-            <div class="atomic-weight">102.91</div>
+            <div class="symbol athelete">Hj</div>
+            <div class="atomic-weight">9/30/1940 - ...</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal ir"
           >
-            <div class="name">Iridium</div>
+            <div class="name">Yolande James</div>
             <div class="atomic-number">77</div>
-            <div class="symbol">Ir</div>
-            <div class="atomic-weight">192.22</div>
+            <div class="symbol">Yj</div>
+            <div class="atomic-weight">1//21/1977 - </div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal ni"
@@ -681,10 +681,10 @@
           <div
             class="periodic-table__element periodic-table__element--unknown mt"
           >
-            <div class="name">Meitnerium</div>
+            <div class="name">Deanna Bowen</div>
             <div class="atomic-number">109</div>
-            <div class="symbol">Mt</div>
-            <div class="atomic-weight">[278]</div>
+            <div class="symbol">Db</div>
+            <div class="atomic-weight">11/5/1969 - </div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--unknown ds"

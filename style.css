@@ -27,7 +27,7 @@ html {
 *::after,
 *::before {
   box-sizing: inherit;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
 }
 
 body {
@@ -54,7 +54,7 @@ body {
 .periodic-table {
   display: grid;
   grid-template: repeat(7, auto)/repeat(18, auto);
-  grid-gap: 1px;
+  grid-gap: 2px;
 }
 .periodic-table__element {
   padding: 3px;
@@ -94,7 +94,7 @@ body {
   color: var(--reactive-nonmetal);
 }
 .periodic-table__element:hover {
-  background-color: rgba(255, 255, 255, 0.347);
+  background-color: rgba(255, 255, 255, 0.2);
   cursor: pointer;
 }
 .periodic-table__element.periodic-table__element--reactive-nonmetal.c {
