@@ -314,26 +314,26 @@
           <div
             class="periodic-table__element periodic-table__element--transition-metal ni"
           >
-            <div class="name">Nickel</div>
+            <div class="name">Sandra Brewster</div>
             <div class="atomic-number">28</div>
-            <div class="symbol artist">Ni</div>
-            <div class="atomic-weight">58.693</div>
+            <div class="symbol artist">Sb</div>
+            <div class="atomic-weight">1973 -</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal pd"
           >
-            <div class="name">Palladium</div>
+            <div class="name">Perdita Felicien</div>
             <div class="atomic-number">46</div>
-            <div class="symbol athelete">Pd</div>
-            <div class="atomic-weight">106.42</div>
+            <div class="symbol athelete">Pf</div>
+            <div class="atomic-weight">8/29/1980 -</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal pt"
           >
-            <div class="name">Platinum</div>
+            <div class="name">Zanana Akande</div>
             <div class="atomic-number">78</div>
-            <div class="symbol">Pt</div>
-            <div class="atomic-weight">195.08</div>
+            <div class="symbol">Za</div>
+            <div class="atomic-weight">9/6/1937 -</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--transition-metal cu"
@@ -689,10 +689,10 @@
           <div
             class="periodic-table__element periodic-table__element--unknown ds"
           >
-            <div class="name">Darmstadtium</div>
+            <div class="name">Sylvia D. Hami...</div>
             <div class="atomic-number">110</div>
-            <div class="symbol">Ds</div>
-            <div class="atomic-weight">[281]</div>
+            <div class="symbol">Sh</div>
+            <div class="atomic-weight">Unknown</div>
           </div>
           <div
             class="periodic-table__element periodic-table__element--unknown rg"
