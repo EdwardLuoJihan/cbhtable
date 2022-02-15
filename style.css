@@ -65,7 +65,6 @@ body {
   align-items: center;
   border: 1px solid var(--base-text-color);
   background: var(--background-color);
-  border-radius: 1px;
   color: var(--base-text-color);
 }
 .periodic-table__element .atomic-number {
